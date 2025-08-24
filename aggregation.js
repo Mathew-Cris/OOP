@@ -62,3 +62,4 @@ const avr1 = new AVR("Secure");
 
 var computer = new Computer(monitor1, keyboard1, mouse1, cd_drive1, avr1);
 computer.startup();
+
