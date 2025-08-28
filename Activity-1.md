@@ -63,7 +63,7 @@ console.log(myBook.toString()); // The Hobbit by J.R.R. Tolkien (ISBN: 978-02611
 
 ## Submission
 
-- Commit your `oop_library.js` file to the repository.
+- Commit your `oop_library.js` file to your repository named `Activity-<number>`.
 - Make sure your code is commented and readable.
 
 ---
