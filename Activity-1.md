@@ -1,2 +1,1 @@
-### Activity-1
-# Bank Account (Javascript)
+# OOP Hands-On Activity: Simple Banking System (JavaScript)
