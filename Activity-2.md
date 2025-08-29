@@ -1,4 +1,4 @@
-# OOP Hands-On Activity: Build a Simple Library Management System (JavaScript)
+# Activity-2: Build a Simple Library Management System (JavaScript)
 
 ## Objective
 Practice fundamental OOP concepts: **Classes, Objects, Inheritance, Encapsulation, and Polymorphism** by building a simple Library Management System in JavaScript.
