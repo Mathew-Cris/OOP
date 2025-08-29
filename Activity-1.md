@@ -15,4 +15,7 @@
 
 ```javascript
 let owner1 = new BankAccount(1, "Jowey Solana", 100000);
+owner1.deposit(20000);
+owner1.withdraw(10000);
+owner1.displayInfo();
 ```
