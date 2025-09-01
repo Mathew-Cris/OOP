@@ -68,4 +68,4 @@ console.log(myBook.toString()); // The Hobbit by J.R.R. Tolkien (ISBN: 978-02611
 
 ---
 ### Prepared by:
-`Mathew Cris Goco` - BSIT Instructor
+`Mathew Cris Goco` - Your Instructor
